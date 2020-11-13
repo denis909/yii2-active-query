@@ -7,7 +7,7 @@ use Yii;
 class ActiveQuery extends \yii\db\ActiveQuery
 {
 
-    use JoinWithRelationTrait;
+    use JoinRelationTrait;
 
     use WhereDateTrait;
 

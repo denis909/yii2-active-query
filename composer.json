@@ -7,7 +7,7 @@
         }
     },
     "require": {
-        "denis909/yii2-join-with-relation-trait": "*",
+        "denis909/yii2-join-relation-trait": "*",
         "denis909/yii2-where-date-trait": "*"
     }
 }
